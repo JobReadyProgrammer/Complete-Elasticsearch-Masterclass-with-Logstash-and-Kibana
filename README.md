@@ -6,6 +6,8 @@ Learn how to build a search engine and break into big data by mastering Elastics
 
 This GitHub Repository will include the Source Code for [the Complete Java Certification Course](https://www.udemy.com/course/master-practical-java-development/) from JRP (Job Ready Programmer)
 
+(Work in progress ⏳)
+
 ### Note for newcomers
 
 Checkout our complete course on the following platforms:
